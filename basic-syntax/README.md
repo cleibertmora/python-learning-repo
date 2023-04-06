@@ -29,3 +29,5 @@ In the folder for this section, you will find code files that you can open in yo
 As you learn, you can modify the code examples and experiment with different values to see how it affects the result.
 
 In summary, this section provides you with the basics of Python syntax, which are essential to understanding the language. Good luck in your learning!
+
+Have fun!
