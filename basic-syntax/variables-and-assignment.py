@@ -1,14 +1,14 @@
-# Asignación de valores a variables
+# Assigning Values to Variables
 x = 5
 y = 3.14
-z = "Hola, mundo!"
+z = "Hello, world!"
 
-# Imprimir valores de las variables
+# Print variable values
 print(x)
 print(y)
 print(z)
 
-# Actualización de valores de variables
+# Updating variable values
 x = 5
 x = x + 1
 print(x)  # Output: 6
